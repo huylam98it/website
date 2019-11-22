@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: 
+    username: root
+    password: Huylam98@
+     jpa:    show-sql: true
+  messages:    encoding: UTF-8
